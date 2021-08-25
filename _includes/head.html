@@ -1,0 +1,35 @@
+<head>
+
+    <!-- Basic Meta Tags
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="author" content="{{ site.author }}">
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- CSS Linking
+    ================================================== -->
+    <link rel="stylesheet" href="{{ "/stylesheets/awsm.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/stylesheets/home.css" | prepend: site.baseurl }}">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif:400,400i,700,700i&amp;subset=cyrillic" rel="stylesheet">
+
+    <!-- Favicons
+	================================================== -->
+    <link rel="shortcut icon" type="image/png" href="{{ "/images/favicon.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" href="{{ "/images/apple-touch-icon.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ "/images/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ "/images/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
+
+    <!-- Twitter Metas
+    ================================================== -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+    <meta name="twitter:url" content="{{ page.url }}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{{ "/images/logo-fb.png" | prepend: site.baseurl }}">
+
+</head>

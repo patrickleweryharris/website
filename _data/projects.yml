@@ -1,0 +1,137 @@
+projects:
+  - category: Python
+    subprojects:
+      - title: Enigma Machine Simulation
+        description:
+        url: https://github.com/patrickleweryharris/enigma/
+        frontpage: false
+        date: 2015
+      - title: Anagram Solver CLI
+        description:
+        url: https://github.com/patrickleweryharris/anagram-solver/
+        frontpage: false
+        date: 2017
+      - title: Password Generator CLI
+        description:
+        url: https://github.com/patrickleweryharris/password-creator/
+        frontpage: false
+        date: 2017
+      - title: Pintools
+        description: Python command line tools for managing Pinboard bookmarks
+        url: /projects/pintools/
+        frontpage: true
+        date: 2019
+      - title: Tool to Delete All Saved Reddit Links
+        description:
+        url: /automation/delete-all-saved-reddit-links
+        frontpage: false
+        date: 2019
+  - category: C
+    subprojects:
+      - title: Forest
+        description: A file tree viewer and search tool
+        url: /projects/forest/
+        frontpage: false
+        date: 2017
+      - title: psh
+        description: A rudimentary shell
+        url: https://github.com/patrickleweryharris/psh
+        frontpage: false
+        date: 2017
+      - title: Router
+        description: Mininet simple router implementation
+        url: /projects/router/
+        frontpage: false
+        date: 2019
+      - title: Hoard Memory Allocator
+        description: Implementation of a parallel memory allocator
+        url: /projects/hoard/
+        frontpage: false
+        date: 2019
+  - category: Shell
+    subprojects:
+      - title: Copyscript
+        description: Directory duplication script
+        url: https://github.com/patrickleweryharris/copyscript/
+        frontpage: false
+        date: 2017
+      - title: Automation Scripts
+        description:
+        url: https://github.com/patrickleweryharris/scripts/
+        frontpage: false
+        date: 2018-
+  - category: AppleScript
+    subprojects:
+      - title: Automatically save all email attachments in Apple Mail
+        description:
+        url: /automation/autosave-email-attachments
+        frontpage: false
+        date: 2019
+      - title: Automatically export .docx documents to PDF
+        description:
+        url: /automation/docx-to-pdf
+        frontpage: false
+        date: 2019
+  - category: Web Dev
+    subprojects:
+      - title: UofT Major Finder
+        description: Tool for finding majors you are eligible to enter at UofT
+        url: /major-finder/
+        frontpage: false
+        date: 2015
+      - title: plh.io
+        description: Personal Website
+        url: https://github.com/patrickleweryharris/patrickleweryharris.github.io/
+        frontpage: false
+        date: 2015-
+      - title: 52 Books
+        description: All the books I read in 2017
+        url: /projects/52books/
+        frontpage: false
+        date: 2017
+      - title: Coffee Gif Browser
+        description: Node.js app for browsing and saving Gifs
+        url: https://github.com/patrickleweryharris/coffee/
+        frontpage: false
+        date: 2018
+      - title: Personal API
+        description:
+        url: https://api.plh.io/
+        frontpage: false
+        date: 2018
+  - category: Java
+    subprojects:
+      - title: Photo Renamer
+        description: Photo organization program
+        url: /projects/photorenamer/
+        frontpage: false
+        date: 2016
+      - title: Imagenda
+        description: Android App. Automatic calendar entry of paper schedules through OCR
+        url: /projects/imagenda/
+        frontpage: false
+        date: 2017
+  - category: Verilog
+    subprojects:
+      - title: Intersection
+        description: Traffic light simulation
+        url: /projects/intersection
+        frontpage: false
+        date: 2017
+  - category: Writing
+    subprojects:
+      - title: Napoleonic and Naval History
+        description: History blog
+        url: http://www.napoleonvswellington.org
+        frontpage: false
+        date: 2013-2016
+      - title: "The 'Good' Wehrmacht"
+        description: "Visual essay on crimes of the Wehrmacht during the Second World War"
+        url: /thegoodwehrmacht/
+        frontpage: false
+        date: 2017
+      - title: Automation
+        description: Blog about automation
+        url: /automation/
+        frontpage: false
+        date: 2019-

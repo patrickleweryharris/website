@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/patrickharris
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://plh.io
+  * I am patrickharris (https://keybase.io/patrickharris) on keybase.
+  * I have a public key ASANTGdU4O7KRmtv-N7YRQOhVJjEOF3s02cILv4hgNrKBAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200d4c6754e0eeca466b6ff8ded84503a15498c4385decd367082efe2180daca040a",
+            "host": "keybase.io",
+            "kid": "01200d4c6754e0eeca466b6ff8ded84503a15498c4385decd367082efe2180daca040a",
+            "uid": "9d03dd97c11c797b2ff8cc78adb3b319",
+            "username": "patrickharris"
+        },
+        "service": {
+            "hostname": "plh.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473482724,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473482685,
+        "hash": "0693a79663501141618f63115fcc4ef62a5f9288fafc0b8f46029b7b5e65f3060dd7cb5659c150c35f8bd5becc5ec96bb40962a9ae5716123390305fb8ee5f60",
+        "seqno": 628325
+    },
+    "prev": "656bd17169aec03908aa2b98a99640b238e68f9e4e11dfa3d7c83df68f56f80e",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDUxnVODuykZrb/je2EUDoVSYxDhd7NNnCC7+IYDaygQKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGQ0YzY3NTRlMGVlY2E0NjZiNmZmOGRlZDg0NTAzYTE1NDk4YzQzODVkZWNkMzY3MDgyZWZlMjE4MGRhY2EwNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGQ0YzY3NTRlMGVlY2E0NjZiNmZmOGRlZDg0NTAzYTE1NDk4YzQzODVkZWNkMzY3MDgyZWZlMjE4MGRhY2EwNDBhIiwidWlkIjoiOWQwM2RkOTdjMTFjNzk3YjJmZjhjYzc4YWRiM2IzMTkiLCJ1c2VybmFtZSI6InBhdHJpY2toYXJyaXMifSwic2VydmljZSI6eyJob3N0bmFtZSI6InBsaC5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDczNDgyNzI0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzM0ODI2ODUsImhhc2giOiIwNjkzYTc5NjYzNTAxMTQxNjE4ZjYzMTE1ZmNjNGVmNjJhNWY5Mjg4ZmFmYzBiOGY0NjAyOWI3YjVlNjVmMzA2MGRkN2NiNTY1OWMxNTBjMzVmOGJkNWJlY2M1ZWM5NmJiNDA5NjJhOWFlNTcxNjEyMzM5MDMwNWZiOGVlNWY2MCIsInNlcW5vIjo2MjgzMjV9LCJwcmV2IjoiNjU2YmQxNzE2OWFlYzAzOTA4YWEyYjk4YTk5NjQwYjIzOGU2OGY5ZTRlMTFkZmEzZDdjODNkZjY4ZjU2ZjgwZSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQGylnKvRi5QIF41YQrOhdrDd1m7CtutevTERaPsUAHWFCWcxbBxp4IPqL05Q+DwQpSs8UHoUcWsRluvcs2be+guoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBQbZscSDgHQnEu3D4Zyhc2i9QO07ka+YsU35OXk8+2D6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/patrickharris
+
+==================================================================

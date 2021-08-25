@@ -1,0 +1,10 @@
+doc_list_title: Nav
+docs:
+  - title: About
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Posts
+    url: /posts/
+  - title: Github
+    url: https://github.com/patrickleweryharris

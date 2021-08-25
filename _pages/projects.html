@@ -1,0 +1,23 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+redirect_from: /portfolio/
+description: Patrick Lewery Harris's Software and Writing Projects
+---
+{% for item in site.data.projects.projects %}
+    <h2>
+        <a id="{{ item.category | downcase }}" href="#{{ item.category | downcase }}" aria-hidden="true"></a>
+        {{ item.category }}
+    </h2>
+    <ul>
+    {% for prj in item.subprojects %}
+        <li>
+            <p>
+                <a href="{{ prj.url }}">{{ prj.title }}</a> [{{ prj.date }}]<br>
+                {{ prj.description }}
+            </p>
+        </li>
+    {% endfor %}
+    </ul>
+{% endfor %}

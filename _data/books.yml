@@ -1,0 +1,289 @@
+booklist:
+  - name: Impulse
+    author: Dave Bara
+    goodreads: https:/www.goodreads.com/book/show/18482440-impulse
+    description: ''
+    img: /images/52books/impulse.jpg
+    week: '1'
+  - name: Starbound
+    author: Dave Bara
+    goodreads: https:/www.goodreads.com/book/show/25361895-starbound
+    description: ''
+    img: /images/52books/starbound.jpg
+    week: '2'
+  - name: Defiant
+    author: Dave Bara
+    goodreads: https:/www.goodreads.com/book/show/29855983-defiant
+    description: ''
+    img: /images/52books/defiant.jpg
+    week: '3'
+  - name: Fatherland
+    author: Robert Harris
+    goodreads: https:/www.goodreads.com/book/show/56842.Fatherland
+    description: ''
+    img: /images/52books/fatherland.jpg
+    week: '4'
+  - name: Between the World and Me
+    author: Ta Neshi Coates
+    goodreads: https:/www.goodreads.com/book/show/25489625-between-the-world-and-me
+    description: ''
+    img: /images/52books/worldandme.jpg
+    week: '5'
+  - name: In the Presence of Mine Enemies
+    author: Harry Turtledove
+    goodreads: https:/www.goodreads.com/book/show/101630.In_the_Presence_of_Mine_Enemies
+    description: ''
+    img: /images/52books/enemies.jpg
+    week: '6'
+  - name: Rogue Lawyer
+    author: John Grisham
+    goodreads: https:/www.goodreads.com/book/show/25387351-rogue-lawyer
+    description: ''
+    img: /images/52books/roguelawyer.jpg
+    week: '7'
+  - name: Cryptonomicon
+    author: Neal Stephenson
+    goodreads: https:/www.goodreads.com/book/show/816.Cryptonomicon
+    description: ''
+    img: /images/52books/cryptonomicon.jpg
+    week: '8'
+  - name: '1984'
+    author: George Orwell
+    goodreads: https:/www.goodreads.com/book/show/5470.1984
+    description: ''
+    img: /images/52books/1984.jpg
+    week: '9'
+  - name: Ready Player One
+    author: Ernest Cline
+    goodreads: https:/www.goodreads.com/book/show/9969571-ready-player-one
+    description: ''
+    img: /images/52books/readyplayerone.jpg
+    week: '10'
+  - name: The Spy
+    author: Paulo Coelho
+    goodreads: https:/www.goodreads.com/book/show/30686326-the-spy
+    description: ''
+    img: /images/52books/thespy.jpg
+    week: '11'
+  - name: The Night Manager
+    author: John Le Carre
+    goodreads: https:/www.goodreads.com/book/show/1735330.The_Night_Manager
+    description: ''
+    img: /images/52books/nightmanager.jpg
+    week: '12'
+  - name: Bridge of the Golden Horn
+    author: Emine Sevgi Özdamar
+    goodreads: https:/www.goodreads.com/book/show/2457064.The_Bridge_of_the_Golden_Horn
+    description: ''
+    img: /images/52books/horn.jpg
+    week: '13'
+  - name: Longitude
+    author: Dava Sobel
+    goodreads: https:/www.goodreads.com/book/show/4806.Longitude
+    description: ''
+    img: /images/52books/longitude.jpg
+    week: '14'
+  - name: The Clockwork Universe
+    author: Edward Dolnick
+    goodreads: https:/www.goodreads.com/book/show/9449985-the-clockwork-universe
+    description: ''
+    img: /images/52books/clockwork.jpg
+    week: '15'
+  - name: The Childrens Crusade
+    author: Ann Packer
+    goodreads: https:/www.goodreads.com/book/show/22609396-the-children-s-crusade
+    description: ''
+    img: /images/52books/crusade.jpg
+    week: '16'
+  - name: Armada
+    author: Ernest Cline
+    goodreads: http:/www.goodreads.com/book/show/16278318-armada
+    description: ''
+    img: /images/52books/armada.jpg
+    week: '17'
+  - name: A Darker Shade of Magic
+    author: " V.E. Schwab "
+    goodreads: https:/www.goodreads.com/book/show/23403402-a-darker-shade-of-magic
+    description: ''
+    img: /images/52books/magic.jpg
+    week: '18'
+  - name: Politika
+    author: Tom Clancy
+    goodreads: https:/www.goodreads.com/book/show/131659.Politika
+    description: ''
+    img: /images/52books/politka.jpg
+    week: '19'
+  - name: Station Eleven
+    author: Emily St. John Mandel
+    goodreads: https:/www.goodreads.com/book/show/20170404-station-eleven
+    description: ''
+    img: /images/52books/eleven.jpg
+    week: '20'
+  - name: Red Rising
+    author: Pierce Brown
+    goodreads: https:/www.goodreads.com/book/show/15839976-red-rising
+    description: ''
+    img: /images/52books/red.jpg
+    week: '21'
+  - name: Rainbox Six
+    author: Tom Clancy
+    goodreads: http:/www.goodreads.com/book/show/5720.Rainbow_Six
+    description: ''
+    img: /images/52books/rainbow.jpg
+    week: '22'
+  - name: Trust Me I'm Lying
+    author: Ryan Holiday
+    goodreads: http:/www.goodreads.com/book/show/13542853-trust-me-i-m-lying
+    description: ''
+    img: /images/52books/lying.jpg
+    week: '23'
+  - name: American Gods
+    author: Neil Gaiman
+    goodreads: https:/www.goodreads.com/book/show/30165203-american-gods
+    description: ''
+    img: /images/52books/american.jpg
+    week: '24'
+  - name: A Gathering of Shadows
+    author: V. E. Schwab
+    goodreads: https:/www.goodreads.com/book/show/20764879-a-gathering-of-shadows
+    description: ''
+    img: /images/52books/shadows.jpg
+    week: '25'
+  - name: A Conjuring of Light
+    author: V. E. Schwab
+    goodreads: https:/www.goodreads.com/book/show/29939230-a-conjuring-of-light
+    description: ''
+    img: /images/52books/light.jpg
+    week: '26'
+  - name: Norse Mythology
+    author: Neil Gaiman
+    goodreads: https:/www.goodreads.com/book/show/30831912-norse-mythology
+    description: ''
+    img: /images/52books/norse.jpg
+    week: '27'
+  - name: Heart of Darkness
+    author: Joseph Conrad
+    goodreads: https:/www.goodreads.com/book/show/4900.Heart_of_Darkness
+    description: ''
+    img: /images/52books/dark.jpg
+    week: '28'
+  - name: An Officer and a Spy
+    author: Robert Harris
+    goodreads: https:/www.goodreads.com/book/show/18007532-an-officer-and-a-spy
+    description: ''
+    img: /images/52books/officer.jpg
+    week: '29'
+  - name: Leviathan Wakes
+    author: James S. A. Corey
+    goodreads: https:/www.goodreads.com/book/show/8855321-leviathan-wakes
+    description: ''
+    img: /images/52books/leviathan.jpg
+    week: '30'
+  - name: Caliban's War
+    author: James S. A. Corey
+    goodreads: https:/www.goodreads.com/book/show/12591698-caliban-s-war
+    description: ''
+    img: /images/52books/caliban.jpg
+    week: '31'
+  - name: Abaddon's Gate
+    author: James S. A. Corey
+    goodreads: https:/www.goodreads.com/book/show/16131032-abaddon-s-gate
+    description: ''
+    img: /images/52books/abaddon.jpg
+    week: '32'
+  - name: Red Mars
+    author: Kim Stanley Robinson
+    goodreads: https:/www.goodreads.com/book/show/77507.Red_Mars
+    description: ''
+    img: /images/52books/mars.jpg
+    week: '33'
+  - name: A Hitchhiker's Guide to the Galaxy (the trilogy of four)
+    author: Douglas Adams
+    goodreads: https:/www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy
+    description: ''
+    img: /images/52books/hitch.jpg
+    week: 34 - 37
+  - name: The Fortress at the End of Time
+    author: Joe McDermott
+    goodreads: https:/www.goodreads.com/book/show/31177581-the-fortress-at-the-end-of-time
+    description: ''
+    img: /images/52books/fortress.jpg
+    week: '38'
+  - name: Mr. Midshipman Hornblower
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/84748.Mr_Midshipman_Hornblower
+    description: ''
+    img: /images/52books/midshipman.jpg
+    week: '39'
+  - name: Lieutenant Hornblower
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/77040.Lieutenant_Hornblower
+    description: ''
+    img: /images/52books/lieutenant.jpg
+    week: '40'
+  - name: Hornblower and the Hotspur
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/84746.Hornblower_and_the_Hotspur
+    description: ''
+    img: /images/52books/hotspur.jpg
+    week: '41'
+  - name: The Happy Return
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/84730.Beat_to_Quarters
+    description: ''
+    img: /images/52books/happy.jpg
+    week: '42'
+  - name: Ship of the Line
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/90951.Ship_of_the_Line
+    description: ''
+    img: /images/52books/ship.jpg
+    week: '43'
+  - name: Flying Colours
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/90952.Flying_Colours
+    description: ''
+    img: /images/52books/flying.jpg
+    week: '44'
+  - name: The Commodore
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/90949.Commodore_Hornblower
+    description: ''
+    img: /images/52books/commodore.jpg
+    week: '45'
+  - name: La Belle Sauvage
+    author: Phillip Pullman
+    goodreads: https:/www.goodreads.com/book/show/34128219-la-belle-sauvage
+    description: ''
+    img: /images/52books/sauvage.jpg
+    week: '46'
+  - name: Lord Hornblower
+    author: C.S. Forester
+    goodreads: https:/www.goodreads.com/book/show/77041.Lord_Hornblower
+    description: ''
+    img: /images/52books/lord.jpg
+    week: '47'
+  - name: Cibola Burn
+    author: James S.A. Corey
+    goodreads: https:/www.goodreads.com/book/show/18656030-cibola-burn
+    description: ''
+    img: /images/52books/cibola.jpg
+    week: '48'
+  - name: Origin
+    author: Dan Brown
+    goodreads: https:/www.goodreads.com/book/show/32283133-origin
+    description: ''
+    img: /images/52books/origin.jpg
+    week: '49'
+  - name: Artemis
+    author: Andy Weir
+    goodreads: https:/www.goodreads.com/book/show/34928122-artemis
+    description: ''
+    img: /images/52books/artemis.jpg
+    week: '50'
+  - name: Nemesis Games
+    author: James S.A. Corey
+    goodreads: https:/www.goodreads.com/book/show/22886612-nemesis-games
+    description: ''
+    img: /images/52books/nemesis.jpg
+    week: '51'

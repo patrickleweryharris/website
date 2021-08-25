@@ -1,0 +1,16 @@
+---
+layout: page
+title: 52books
+description: In 2017, I read a book every week, this is the list
+permalink: /projects/52books/
+redirect_from: /52books/
+---
+<p style="text-align:center;">In 2017, I read a book every week.</p>
+{% for item in site.data.books.booklist %}
+    <img style="cursor: pointer;" height="400" align="center" src="{{ item.img }}">
+    <p style="text-align: center">
+        Week: {{ item.week }}<br>By: {{ item.author }}<br>
+        Check it out on <a href="{{ item.goodreads }}">Goodreads</a>
+    </p>
+{% endfor %}
+<p style="text-align:center;"> Book covers are the property of their authors and respective publishers</p>

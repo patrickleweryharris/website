@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<section id='me'>
+    <h2 style="text-align:center">I'm a systems developer.</h2>
+    <div style="text-align:center">
+        <nav>
+            <ul>
+                <li>
+                    <a class="social2" href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+                        <img class="scale-with-grid hov" src="{{ "/images/social/twitter.png" | prepend: site.baseurl }}" alt=""></a>
+                </li>
+                <li>
+                    <a class="social2" href="https://github.com/{{ site.github_username }}" target="_blank">
+                        <img class="scale-with-grid hov" src="{{ "/images/social/github.png" | prepend: site.baseurl }}" alt="">
+                    </a>
+                </li>
+                <li>
+                    <a class="social2" href="mailto:{{ site.email }}?Subject=Website%20contact">
+                        <img class="scale-with-grid hov" src="{{ "/images/social/envelope-icon.png" | prepend: site.baseurl }}" alt="">
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div>
+        <br>
+        My interests include Embedded Systems, Distributed Computing, Computer Security,
+        <a href="https://plh.io/automation">Automation</a>,
+        and <a href="https://www.napoleonvswellington.org">Nautical History</a>.
+        <br>
+    </div>
+    <div>
+        <h2>
+            <a id='current' href='#current' aria-hidden="true"></a>
+            Recent Projects:
+        </h2>
+        <ul>
+            {% for item in site.data.projects.projects %}
+                {% for prj in item.subprojects %}
+                    {% if prj.frontpage == true %}
+                        <li>
+                            <p>
+                                <a href="{{ prj.url }}">{{ prj.description}}</a>
+                            </p>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </ul>
+    </div>
+</section>

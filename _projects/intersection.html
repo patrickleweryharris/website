@@ -1,0 +1,28 @@
+---
+layout: page
+title: Intersection
+description: Model Traffic Lights created using a pressure sensor and DE1 FPGA.
+permalink: /projects/intersection/
+redirect_from: /intersection/
+---
+<p> By Patrick Harris and Ammar Akhtar </p>
+<br>
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6GB3qiz7r5o" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div>
+    <h2>About</h2>
+    <p>
+        A simulation of a traffic control system that runs on a DE1 FPGA using Verilog. We simulate the intersection of a major road and a small side road. The lights are green for the main road most of the time to allow for flow of traffic. A sensor detects when a toy car pulls up at the intersection from the smaller road. These triggers the main road to turn red to allow the toy car through. After some amount of time, the small road will turn red. This will trigger the larger roads light cycle. This consists a left turn period (the left turn signals go green), then a general green light period. This cycle will then repeat when the sensor on the smaller road is triggered again.
+
+        This whole cycle is essentially a finite state machine. The intersection can have several different states, such as red, green, yellow, and left turn. The movement between these states is governed by the input from the sensor and counters.
+
+        The red light camera is a feature separate from this FSM. It uses the existing sensors and the current state of the light FSM to determine if a car is running a red light. If it detects a car moving off a sensor while the light is in the red state, the time of the offence is recorded onto the FPGA's RAM.
+    </p>
+    <h2>Motivations</h2>
+
+    <p>I’ve always been enthused about how traffic lights and traffic control systems work, and I have a lot of toy cars that I need to justify having in my room. This kind of system would have been the ultimate toy for me when I was a kid, it would have made my imaginary cities so much cooler. </p>
+
+
+</div>

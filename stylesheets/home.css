@@ -1,0 +1,141 @@
+li.active a {
+    color: black;
+    text-decoration: none;
+}
+
+.top {
+  position: fixed;
+  bottom: 5px;
+  right: 10px;
+  z-index: 1000;
+}
+
+.love {
+  display: inline-block;
+  position: relative;
+  top: .2em;
+  font-size: 1.4em;
+  color: #ff79c6;
+  -webkit-transform: scale(.9);
+  -moz-transform: scale(.9);
+  transform: scale(.9);
+  -webkit-animation: love .5s infinite linear alternate-reverse;
+  -moz-animation: love .5s infinite linear alternate-reverse;
+  animation: love .5s infinite linear alternate-reverse;
+}
+
+.code_icon{
+  font-size: 1.6em;
+  display: inline-block;
+  position: relative;
+  top: .2em;
+  color: rgba(139, 233, 253, 1);
+}
+
+.tiny_foot{
+  font-size: 0.8em;
+  top: .3em;
+}
+
+@-webkit-keyframes love {
+  to { -webkit-transform: scale(1.1); }
+}
+
+@-moz-keyframes love {
+  to { -moz-transform: scale(1.1); }
+}
+
+@keyframes love {
+  to { transform: scale(1.1); }
+}
+
+.social2 img{
+  width: 35px;
+  height: 35px;
+}
+.social2:hover{
+  opacity: 0.5;
+}
+
+
+	img.scale-with-grid {
+		max-width: 100%;
+		height: auto; }
+
+    img.center {
+	    display: block;
+	    margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 40px;
+	    margin-bottom: 20px;
+    }
+
+    img.circle {
+	    border: 4px solid #fff;
+	    width: 150px;
+	    height: 150px;
+	    border-radius: 150px;
+	    -webkit-border-radius: 150px;
+	    -moz-border-radius: 150px;
+    }
+
+    #hov:hover {
+	    opacity: 0.5;
+	    -moz-transition: all 1s linear;
+	    -ms-transition: all 1s linear;
+	    -o-transition: all 1s linear;
+	    -webkit-transition: all 1s linear;
+	    transition: all 1s linear;
+    }
+
+     .hov:hover {
+	    opacity: 0.5;
+	    -moz-transition: all 1s linear;
+	    -ms-transition: all 1s linear;
+	    -o-transition: all 1s linear;
+	    -webkit-transition: all 1s linear;
+	    transition: all 1s linear;
+    }
+
+
+
+    #rotate {
+	    -webkit-transition: all 0.8s ease;
+        -moz-transition: all 0.8s ease;
+        -o-transition: all 0.8s ease;
+        -ms-transition: all 0.8s ease;
+        transition: all 0.8s ease;
+    }
+
+    #rotate:hover {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+
+
+
+    #zoom {
+	    border: 4px solid #fff;
+	    width: 150px;
+	    height: 150px;
+	    border-radius: 150px;
+	    -webkit-border-radius: 150px;
+	    -moz-border-radius: 150px;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+    #zoom:hover {
+        width: 180px;
+        height: 180px;
+        border: 4px solid #334d66;
+        border-radius: 180px;
+	    -webkit-border-radius: 180px;
+	    -moz-border-radius: 180px;
+    }
