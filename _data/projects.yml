@@ -84,11 +84,6 @@ projects:
         url: https://github.com/patrickleweryharris/patrickleweryharris.github.io/
         frontpage: false
         date: 2015-
-      - title: 52 Books
-        description: All the books I read in 2017
-        url: /projects/52books/
-        frontpage: false
-        date: 2017
       - title: Coffee Gif Browser
         description: Node.js app for browsing and saving Gifs
         url: https://github.com/patrickleweryharris/coffee/
