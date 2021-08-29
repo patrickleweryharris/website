@@ -16,7 +16,7 @@
 title: Patrick Lewery Harris
 email: patrick@plh.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Canadian systems developer, amateur historian, and automation enthusiast.
+  Canadian software developer and amateur historian.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://plh.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: napoleonicwars
