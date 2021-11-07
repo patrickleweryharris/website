@@ -1,4 +1,4 @@
-# plh-io
+# lewery.ca
 
 
 ![banner](/images/newlogo.png)
@@ -17,7 +17,7 @@ Site is served over https
 
 ## Usage
 
-Navigate on over to [https://plh.io](https://plh.io)
+Navigate on over to [https://lewery.ca](https://lewery.ca)
 
 ## Contribute
 

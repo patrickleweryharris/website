@@ -32,5 +32,5 @@ The 'embedded script' in the AppleScript is the [gist attached above][gist].
 
 
 [hazel]: https://www.noodlesoft.com/
-[autosave-attachments]: http://plh.io/automation/autosave-email-attachments
+[autosave-attachments]: http://lewery.ca/automation/autosave-email-attachments
 [gist]: https://gist.github.com/patrickleweryharris/32caecd150a5d69cc379540709c2e8dc

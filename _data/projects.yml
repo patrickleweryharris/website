@@ -79,7 +79,7 @@ projects:
         url: /major-finder/
         frontpage: false
         date: 2015
-      - title: plh.io
+      - title: lewery.ca
         description: Personal Website
         url: https://github.com/patrickleweryharris/patrickleweryharris.github.io/
         frontpage: false
@@ -91,7 +91,7 @@ projects:
         date: 2018
       - title: Personal API
         description:
-        url: https://api.plh.io/
+        url: https://api.lewery.ca/
         frontpage: false
         date: 2018
   - category: Java
