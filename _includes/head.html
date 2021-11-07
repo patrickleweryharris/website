@@ -30,6 +30,6 @@
     <meta name="twitter:url" content="{{ page.url }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{{ "/images/logo-fb.png" | prepend: site.baseurl }}">
+    <meta name="twitter:image" content="{% if page.image %}{{page.image | prepend: site.baseurl }}{% else %}{{ "/images/logo-fb.png" | prepend: site.baseurl }}{% endif %}">
 
 </head>
