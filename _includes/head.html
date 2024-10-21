@@ -23,13 +23,4 @@
     <link rel="apple-touch-icon" sizes="72x72" href="{{ "/images/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ "/images/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
 
-    <!-- Twitter Metas
-    ================================================== -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
-    <meta name="twitter:url" content="{{ page.url }}">
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.image %}{{page.image | prepend: site.baseurl }}{% else %}{{ "/images/logo-fb.png" | prepend: site.baseurl }}{% endif %}">
-
 </head>
